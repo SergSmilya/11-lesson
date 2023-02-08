@@ -1,0 +1,9 @@
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img {
+    display: block;
+    width: 170px;
+}
